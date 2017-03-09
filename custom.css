@@ -1,0 +1,81 @@
+
+
+.navbar .navbar-brand{
+	
+	color: rgba(255, 255, 255, .85);
+	font-size: 1rem;
+	padding-top: .45rem;
+
+}
+
+.navbar{
+	 -webkit-transition: 1.6s; /* Safari */
+    transition:  1.6s;
+
+}
+
+
+
+.jumbotron{
+	background: url('intro2.jpg');
+	background-size: 100% ;
+	background-attachment: fixed;
+	  padding-top: 15%;
+      padding-bottom: 20%;
+      
+
+}
+
+
+.container-fluid{
+	background: url('whiteBG.jpg');
+	background-size: 100% ;
+	background-attachment: fixed;
+	  padding-top: 5%;
+      padding-bottom: 5%;
+      
+
+}
+
+.btn,
+.active{
+
+	transition: .4s;
+
+}
+
+.navbar{
+        border: none;
+        border-radius: 0;
+        background-color: rgba(0,0,0,0);
+
+}
+
+
+.btn-outline-secondary{
+	color: #d6d6d6;
+	background-color: rgba(0,0,0,0.2);
+}    
+
+
+.lead {
+	font-family: monospace;
+	font-size: 1.5em;
+}
+
+.smoothScroll {
+  text-decoration: none;
+    font-family: Segoe UI;
+  margin: 24px;
+}
+
+.microBlog {
+        text-align: center;
+        margin-left: 300px;
+        margin-right: 300px;
+        margin-bottom: 10px;
+        border-style:solid;
+        border-width:5px;
+}
+
+
